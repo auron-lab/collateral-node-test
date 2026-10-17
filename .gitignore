@@ -1,0 +1,16 @@
+node_modules
+dist
+.next
+.env
+.env.local
+*.log
+coverage
+out
+cache
+broadcast
+*.tsbuildinfo
+**/generated
+.DS_Store
+*.swp
+.idea
+.pnpm-store
